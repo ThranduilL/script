@@ -13,7 +13,7 @@
 ============Quantumultx===============
 [task_local]
 #京东年货节
-1 7 * * * https://raw.githubusercontent.com/lxk0301/jd_scripts/master/jd_nh.js, tag=京东年货节, enabled=true
+1 7 * * * https://raw.githubusercontent.com/ThranduilL/script/main/jd_nh.js, tag=京东年货节, enabled=true
 
 ================Loon==============
 [Script]
